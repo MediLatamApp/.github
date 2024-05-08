@@ -35,8 +35,8 @@ La aplicación de telemedicina permite a los pacientes tener consultas médicas 
 - Nicolas Solé
  ### Front-End:
 - Alexis Jardin
----  
-  [![Contribuidores](https://contrib.rocks/image?repo=No-Country/c17-49-n-java)](https://github.com/No-Country/c17-49-n-java/graphs/contributors)
+---
+  [![Contribuidores](https://contrib.rocks/image?repo=No-Country/c17-49-n-java)](https://github.com/MediLatamApp/Back-End/graphs/contributors)
 ---
 ## Tecnologías Utilizadas 🧰
 
