@@ -35,7 +35,8 @@ La aplicación de telemedicina permite a los pacientes tener consultas médicas 
 - Nicolas Solé
  ### Front-End:
 - Alexis Jardin
-- 
+
+  
 ## Tecnologías Utilizadas 🧰
 
 - Backend: Java con Spring Boot y base de datos PostgreSQL.
