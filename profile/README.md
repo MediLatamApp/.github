@@ -35,9 +35,7 @@ La aplicación de telemedicina permite a los pacientes tener consultas médicas 
 - Nicolas Solé
  ### Front-End:
 - Alexis Jardin
----
-  [![Contribuidores](https://contrib.rocks/image?repo=MediLatamApp/Back-End)](https://github.com/MediLatamApp/Back-End/graphs/contributors)
----
+- 
 ## Tecnologías Utilizadas 🧰
 
 - Backend: Java con Spring Boot y base de datos PostgreSQL.
