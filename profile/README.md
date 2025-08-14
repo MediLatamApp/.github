@@ -24,29 +24,18 @@ La aplicación de telemedicina permite a los pacientes tener consultas médicas 
 
 
 ## Integrantes del Equipo 🙍‍♂️
-### Diseñadora:
-- Leonela Denise Dominguez Almada
-### Back-end:
-- Anthony Medina García
-- Esteban Camacho Salgado
+### Coders:
 - Franco Quijada
 - Christian Pérez
  ### QA:
 - Nicolas Solé
- ### Front-End:
-- Alexis Jardin
 
   
 ## Tecnologías Utilizadas 🧰
 
-- Backend: Java con Spring Boot y base de datos PostgreSQL.
+- Backend: Java con Spring Boot y base de datos MySQL.
   
     ![springboot](https://img.shields.io/badge/-Springboot-FFFFF?style=flat&logo=springboot&logoColor=ffffff)
     ![Mysql](https://img.shields.io/badge/-PostgreSQL-5DC1C6%3Fstyle%3Dflat%26logo%3Dmysql%26logoColor%3Dffffff)
-  
-- Frontend: Next.js y Tailwind CSS.
-
-    ![Nextjs](https://img.shields.io/badge/Next-js?style=flat&logo=nextdotjs&logoColor=ffff&labelColor=%23000000&color=%23000000)
-    ![Tailwind](https://img.shields.io/badge/-Tailwind-5DC1B9?style=flat&logo=tailwindcss&logoColor=ffffff)
 
 
